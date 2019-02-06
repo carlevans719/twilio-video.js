@@ -2,7 +2,7 @@
   "name": "twilio-video",
   "title": "Twilio Video",
   "description": "Twilio Video JavaScript library",
-  "version": "2.0.0-dev",
+  "version": "2.0.1-dev",
   "homepage": "https://twilio.com",
   "author": "Mark Andrus Roberts <mroberts@twilio.com>",
   "contributors": [
@@ -116,7 +116,7 @@
   },
   "dependencies": {
     "@twilio/sip.js": "^0.7.7",
-    "@twilio/webrtc": "twilio/twilio-webrtc.js#7716be1c55c2bd525c72ae4a68164caec54aaaef",
+    "@twilio/webrtc": "carlevans719/twilio-webrtc.js#10ec48256e8eb0e79fb7614ec60b3dd831fd8380",
     "ws": "^3.3.1",
     "xmlhttprequest": "^1.8.0"
   },
